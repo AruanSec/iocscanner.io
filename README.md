@@ -1,6 +1,6 @@
 # IOC Scanner
 
-![IOC Scanner Poster](./images/poster.png)
+![IOC Scanner Poster](poster.png)
 
 Check IoCs reputation across different CTI providers and detonating IoC inside multiple sandboxes.
 
