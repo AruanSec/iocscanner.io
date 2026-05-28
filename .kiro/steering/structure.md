@@ -1,7 +1,7 @@
 # Project Structure
 
 ```
-ioc-scanner/
+iocscanner/
 ├── app.py                      # Flask app factory + all route definitions
 ├── config.py                   # Loads .env → frozen Config @dataclass
 ├── models.py                   # CTIResult dataclass + compute_verdict()

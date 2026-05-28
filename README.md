@@ -221,7 +221,7 @@ When `"type"` is omitted, the scanner infers it from the value:
 ## Project Structure
 
 ```
-ioc-scanner/
+iocscanner/
 ├── pyproject.toml
 ├── .env                        # never committed — see .env.example
 ├── .gitignore
@@ -283,8 +283,8 @@ ioc-scanner/
 
 ```bash
 # Clone and enter the project
-git clone https://github.com/yourorg/ioc-scanner.git
-cd ioc-scanner
+git clone https://github.com/yourorg/iocscanner.git
+cd iocscanner
 
 # Pin Python version and install all dependencies
 uv python pin 3.12
